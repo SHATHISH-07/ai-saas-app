@@ -81,3 +81,9 @@ interface CompanionComponentProps {
   voice: string;
   style: string;
 }
+
+interface BookmarkProps {
+  id: string;
+  user_id: string;
+  companion_id: string;
+}
