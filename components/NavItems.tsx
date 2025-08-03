@@ -14,7 +14,7 @@ const navItems = [
     href: "/companions",
   },
   {
-    label: "My Journey",
+    label: "Journey",
     href: "/my-journey",
   },
 ];
